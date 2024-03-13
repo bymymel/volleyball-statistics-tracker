@@ -1,0 +1,14 @@
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\bin\Debug\Volleyball Statistic Manager.exe.config
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\bin\Debug\Volleyball Statistic Manager.exe
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\bin\Debug\Volleyball Statistic Manager.pdb
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball Statistic Manager.csproj.AssemblyReference.cache
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball_Statistic_Manager.Properties.Resources.resources
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball Statistic Manager.csproj.GenerateResource.cache
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball Statistic Manager.csproj.CoreCompileInputs.cache
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball Statistic Manager.exe
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball Statistic Manager.pdb
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball_Statistic_Manager.volleyballStatisticsManager.resources
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball_Statistic_Manager.formBoxScore.resources
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball_Statistic_Manager.formDashboard.resources
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball_Statistic_Manager.formLegend.resources
+C:\Users\zepho\source\repos\Volleyball Statistic Manager\Volleyball Statistic Manager\obj\Debug\Volleyball_Statistic_Manager.formHotkeys.resources

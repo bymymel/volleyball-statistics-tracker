@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|c:\\users\\zepho\\source\\repos\\volleyball statistic manager\\volleyball statistic manager\\formboxscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formboxscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|c:\\users\\zepho\\source\\repos\\volleyball statistic manager\\volleyball statistic manager\\formboxscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formboxscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\formboxscore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formboxscore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\formhotkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formhotkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\formlegend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formlegend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\formlegend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\formlegend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\volleyball statistic manager\\mdiproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B390-1161-40B7-9273-14E6EAACCE45}|Volleyball Statistic Manager\\Volleyball Statistic Manager.csproj|solutionrelative:volleyball statistic manager\\mdiproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formDashboard.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formDashboard.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formDashboard.cs",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:47:01.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formBoxScore.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formBoxScore.Designer.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formBoxScore.Designer.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formBoxScore.Designer.cs",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formBoxScore.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:27:42.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomButton.cs",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\CustomButton.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\CustomButton.cs",
+              "RelativeToolTip": "Volleyball Statistic Manager\\CustomButton.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAEUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:20:30.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomButton.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\CustomButton.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\CustomButton.cs [Design]",
+              "RelativeToolTip": "Volleyball Statistic Manager\\CustomButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:20:29.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formBoxScore.cs",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formBoxScore.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formBoxScore.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formBoxScore.cs",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formBoxScore.cs",
+              "ViewState": "AQIAAAIDAAAAAAAAAAAuwEEDAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:32:24.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formMain.cs",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formMain.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formMain.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formMain.cs",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formMain.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAE0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T05:45:45.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "formHotkeys.cs",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formHotkeys.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formHotkeys.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formHotkeys.cs",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formHotkeys.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T21:07:27.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formMain.Designer.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formMain.Designer.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formMain.Designer.cs",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formMain.Designer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAewEgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:12:08.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "formDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formDashboard.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formDashboard.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formDashboard.cs [Design]",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:07:29.701Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "formLegend.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formLegend.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formLegend.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formLegend.cs [Design]",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formLegend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T20:38:09.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "formLegend.cs",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formLegend.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formLegend.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formLegend.cs",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formLegend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T20:44:09.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "mdiProperties.cs",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\mdiProperties.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\mdiProperties.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\mdiProperties.cs",
+              "RelativeToolTip": "Volleyball Statistic Manager\\mdiProperties.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T06:12:57.154Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formMain.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formMain.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formMain.cs [Design]",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T05:42:31.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formBoxScore.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formBoxScore.cs",
+              "RelativeDocumentMoniker": "Volleyball Statistic Manager\\formBoxScore.cs",
+              "ToolTip": "C:\\Users\\zepho\\source\\repos\\Volleyball Statistic Manager\\Volleyball Statistic Manager\\formBoxScore.cs [Design]",
+              "RelativeToolTip": "Volleyball Statistic Manager\\formBoxScore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:27:43.024Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
