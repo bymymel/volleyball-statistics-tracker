@@ -2,5 +2,5 @@
 Tracks volleyball statistics
 
 Download:
-Click Volleyball Statistics Manager.exe
+Click Volleyball Statistics Manager.exe\n
 Click download raw file
